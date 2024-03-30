@@ -1,4 +1,4 @@
-![Monty Python](https://images.ctfassets.net/ooa29xqb8tix/7hmqCSqtjjQ8I3C6ZRxrNO/32bd73d6935b6f2e1763f250567e3dc5/AI-Driven_UI_Design_with_Midjourney_and_Figma_image_1.jpg)
+![Monty Python](https://res.cloudinary.com/strich/image/upload/v1497718095/z_design_kkn1lu.jpg)
 
 <img src="https://raw.githubusercontent.com/rzashakeri/beautifygithubprofile/master/cover-repo.jpg">
 
